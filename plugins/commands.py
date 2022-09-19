@@ -48,7 +48,7 @@ async def start(client, message):
             InlineKeyboardButton('😊𝙰𝙳𝙼𝙸𝙽', url='https://t.me/dexte_r_46')
         ], [
             InlineKeyboardButton('🎭 𝙲𝙷𝙰𝙽𝙽𝙴𝙻', url='https://t.me/MC_Moviescafe'),
-            InlineKeyboardButton('🍿 𝙶𝚁𝙾𝚄𝙿', url='https://t.me/MOVIE_CAFE_no1')
+            InlineKeyboardButton('🍿 𝙶𝚁𝙾𝚄𝙿', url='https://t.me/MOVIE_CAFE_v2')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
